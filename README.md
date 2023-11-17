@@ -1,4 +1,4 @@
-<p align="center"><a href="https://decox.zapto.org" target="_blank"><img src="/var/www/Laravel/decox.svg" width="400" alt="Decox Logo"></a></p>
+<p align="center"><a href="https://decox.zapto.org" target="_blank"><img src="decox.svg" width="400" alt="Decox Logo"></a></p>
 
 <p align="center">
 <a href="https://trello.com/b/mjIdWcjS/decox-portfolio"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"></a>
