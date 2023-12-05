@@ -1,9 +1,11 @@
 <p align="center">
-<picture>
-  <a href="https://Setox.zapto.org" target="_blank"><source media="(prefers-color-scheme: dark)" srcset="setoxdark.svg" width="400"></a>
-  <a href="https://Setox.zapto.org" target="_blank"><source media="(prefers-color-scheme: light)" srcset="setoxlight.svg" width="400"></a>
-</picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="setoxdark.svg" width="400"></a>
+        <source media="(prefers-color-scheme: light)" srcset="setoxlight.svg" width="400"></a>
+        <img alt="Setox Logo" src="">
+    </picture>
 </p>
+
 <p align="center">
 <a href="https://trello.com/b/mjIdWcjS/setox-portfolio"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"></a>
 <a href="https://www.linkedin.com/in/brian-olesnievicz-68756b291/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
